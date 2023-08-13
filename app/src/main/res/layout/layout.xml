@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/one"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/two"
+        android:layout_gravity="center"/>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="150dp">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:text="
+@pradeepmca
+6 months ago
+UNDERSTOOD! Only issue i am facing is @pradeepmca
+6 months ago
+UNDERSTOOD! Only issue i am facing is @pradeepmca
+6 months ago
+UNDERSTOOD! Only issue i am facing is rendering image in a phone. My phone is pretty old ,with  Android 7.1.2. So any suggestion that will help in rendering image in any device will be helpful. I have triggered a discussion on this in telegram channel to discuss further. C:\Users\ASUS\OneDrive\Desktop\AndoidDev\TextViewAndScrollView\app\src\main\res\layout\layout.xml dhvsbbbbbbbbbbbbbbbbbbbbbsjjanjajnaaakjjanjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjlllllllllllllllllllllllllllllllllllllllll"
+
+        android:textSize="25dp"/>
+</ScrollView>
+
+
+
+    <ImageView
+        android:id="@+id/two"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/two"
+        android:layout_gravity="center"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:text="
+@pradeepmca
+6 months ago
+UNDERSTOOD! Only issue i am facing is rendering image in a phone. My phone is pretty old ,with  Android 7.1.2. So any suggestion that will help in rendering image in any device will be helpful. I have triggered a discussion on this in telegram channel to discuss further.  C:\Users\ASUS\OneDrive\Desktop\AndoidDev\TextViewAndScrollView\app\src\main\res\layout\layout.xml hgbhb jhjhbj hbjhnjb jhjbjb bjbjb  jbjbhnbjbjbjb jbjbjb bjbjbbbjb bjbjb pokdhvsbbbbbbbbbbbbbbbbbbbbbsjjanjajnaaakjjanjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjlllllllllllllllllllllllllllllllllllllllll"/>
+    </ScrollView>
+</LinearLayout>
